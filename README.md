@@ -9,9 +9,14 @@
 ### 数据来源
 [世界银行](https://data.worldbank.org.cn/)
 
+[中国人民银行](http://www.pbc.gov.cn/)
+
 [美国财政部](https://home.treasury.gov/)
 
-[中国人民银行](http://www.pbc.gov.cn/)
+[美国能源信息署](https://www.eia.gov/)
+
+### 项目进度
+已完成：数据收集、数据清洗
 ### 作品要求
 - Hurun数据/根据项目需求自己提供数据（暂定）,HTML5界面设计包含CSS样式,必需在pythonanywhere.com布署可用
 - [暂定]18级《python》评分点：
