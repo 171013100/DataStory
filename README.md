@@ -15,7 +15,7 @@
 ## 项目链接
 [图表](http://nfunm100.gitee.io/interactive_visualisation_)
 
-[pythonanywhere需结合数据故事](nicolaslin.pythonanywhere.com)
+[pythonanywhere需结合数据故事](http://nicolaslin.pythonanywhere.com/)
 ## 数据故事
 ### 美元指数
 - 1971年布雷顿森林体系崩溃后，浮动汇率制取代了固定汇率制，外汇交易进入市场化阶段，外汇市场成为全球最大而且最活跃的金融市场，也是当今世界上流动性最强的市场。美元是当今所有货币中最强的强势货币，各国的外汇储备中最主要的外汇是美元，在国际市场上，绝大多数商品是以美元标价的。因此，美元的动向和涨跌是所有交易者最关心的事项。这时就需要一个反映美元在外汇市场上整体强弱的指标，即美元指数。
